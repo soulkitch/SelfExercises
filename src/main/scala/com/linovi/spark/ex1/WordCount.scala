@@ -19,5 +19,4 @@ object WordCount {
     groupedWordsRDD.foreach(println)
     sc.stop()
   }
-
 }
