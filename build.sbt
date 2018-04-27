@@ -27,3 +27,4 @@ resolvers ++= Seq(
   "Second Typesafe repo" at "http://repo.typesafe.com/typesafe/maven-releases/",
   "Mesosphere Public Repository" at "http://downloads.mesosphere.io/maven"
 )
+
